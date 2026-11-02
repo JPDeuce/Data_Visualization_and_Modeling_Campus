@@ -1,0 +1,8 @@
+root = true
+
+# Keep line endings consistent with .gitattributes so editors
+# (including Visual Studio) don't rewrite files as CRLF.
+[*]
+charset = utf-8
+end_of_line = lf
+insert_final_newline = true
