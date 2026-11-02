@@ -1,0 +1,16 @@
+# OS / editor artifacts
+.DS_Store
+Thumbs.db
+.vs/
+.vscode/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+
+# Jupyter
+.ipynb_checkpoints/
